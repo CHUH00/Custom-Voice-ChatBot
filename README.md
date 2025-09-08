@@ -18,7 +18,7 @@
 
 ## 🧱 아키텍처
 [브라우저 Mic] <br>
-↓<tr>     audio_recorder_streamlit (WAV) <br>
+↓     audio_recorder_streamlit (WAV) <br>
 [Streamlit] <br>
 ↓     OpenAI Whisper (ko) <br>
 [텍스트] <br>
