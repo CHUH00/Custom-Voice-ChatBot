@@ -18,15 +18,15 @@
 
 ## 🧱 아키텍처
 [브라우저 Mic] <br>
-↓ audio_recorder_streamlit (WAV) <br>
+↓     audio_recorder_streamlit (WAV) <br>
 [Streamlit] <br>
-↓ OpenAI Whisper (ko) <br>
+↓     OpenAI Whisper (ko) <br>
 [텍스트] <br>
-↓ OpenAI Chat (gpt-4o-mini) <br>
+↓     OpenAI Chat (gpt-4o-mini) <br>
 [답변 텍스트] <br>
-↓ Coqui TTS XTTS v2 (speaker_wav refs) <br>
+↓     Coqui TTS XTTS v2 (speaker_wav refs) <br>
 [WAV 파일] <br>
-↓  자동 재생(JS 보조) <br>
+↓      자동 재생(JS 보조) <br>
 [사용자] <br>
 
 ---
