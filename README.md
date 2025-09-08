@@ -31,5 +31,11 @@
 
 ---
 
+<p align="center">
+  <img src="./image/main_image.png" alt="Buckshot Roulette Banner" />
+</p>
+
+---
+
 ## 🔍 출처
 https://github.com/coqui-ai/TTS?tab=readme-ov-file
